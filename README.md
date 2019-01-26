@@ -1,3 +1,5 @@
+This is a personal test of the system. It also may be used as a personal repository of my changes.
+
 ## SuiteCRM 7.11
 
 [![Build Status](https://travis-ci.org/salesagility/SuiteCRM.svg?branch=master)](https://travis-ci.org/salesagility/SuiteCRM)
