@@ -1,4 +1,4 @@
-This is a personal test of the system. It also may be used as a personal repository of my changes.
+This is a personal test of the system. It also may be used as a personal repository of my changes. I am also using it to learn certain features.
 
 ## SuiteCRM 7.11
 
